@@ -1,5 +1,8 @@
 # bevy_landmass
 
+> [!CAUTION]
+> `bevy_landmass` has moved! It now lives inside the [landmass](https://github.com/andriyDev/landmass) repo!
+
 A plugin for [Bevy](https://bevyengine.org) to allow using
 [landmass](https://github.com/andriyDev/landmass) conveniently.
 
